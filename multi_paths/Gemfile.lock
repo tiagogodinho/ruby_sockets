@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (3.0.4.1)
+    rackup (2.1.0)
+      rack (>= 3)
+      webrick (~> 1.8)
+    webrick (1.8.1)
+
+PLATFORMS
+  aarch64-linux
+
+DEPENDENCIES
+  rackup
+
+BUNDLED WITH
+   2.4.1
